@@ -1,5 +1,5 @@
 # Intrusion-Detection-system-Using-CNN
-### Skills
+# Skills
 - Skill 1
 - Skill 2
 
