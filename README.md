@@ -1,8 +1,2 @@
-# Intrusion-Detection-system-Using-CNN
-# Skills
-- Skill 1
-- Skill 2
-
-### Certifications
-- Certification 1
-- Certification 2
+# Deep Learning Model based on Convolutional Neural Network for Automatic Intrusion Detection System
+This repository contains the code and resources for the research project proposes the creation of a robust deep learning-based Intrusion Detection System (IDS) using Convolutional Neural Networks (CNNs) to predict and categorize hostile cyber-attacks. The proposed system aims to extract signatures and patterns from a raw dataset using neural networks to anticipate and classify future data, leading to the development of an Automatic IDS with CNN architecture.
