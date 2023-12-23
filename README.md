@@ -15,4 +15,10 @@ Addressing the pervasive challenge of network attacks, this project focuses on c
 + The dataset employes the information regarding the attacks that took place which is taken from the refernce of [“A Detailed Analysis of the KDD CUP 99 Data Set,”](https://ieeexplore.ieee.org/document/5356528)
 + [Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 
+## Requirements
++ Python 3 or higher
++ tensorflow
++ numpy
 
+## Acknowledgements
+We Acknowledge 
