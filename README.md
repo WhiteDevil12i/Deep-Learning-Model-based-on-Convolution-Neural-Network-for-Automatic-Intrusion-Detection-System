@@ -18,7 +18,10 @@ Addressing the pervasive challenge of network attacks, this project focuses on c
 ## Requirements
 + Python 3 or higher
 + tensorflow
-+ numpy
++ numpy 1.21.5
++ sys 3.7.13
++ skLearn 1.0.2
++ matplotlib
 
 ## Acknowledgements
-We Acknowledge 
+We Acknowledge M. Tavallaee.et.al for providing the dataset used in this research. We also would like to thank open source community for providing tools and technologies used in this project.
