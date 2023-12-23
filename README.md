@@ -12,7 +12,7 @@ Addressing the pervasive challenge of network attacks, this project focuses on c
 + Application to NSL-KDD Dataset: The study applies the proposed deep learning model to the NSL-KDD dataset, which contains both normal and attack traffic, and evaluates the model's performance using various evaluation metrics, including precision, recall, and F1-score.
 
 ## Dataset
-The dataset employes the information regarding the attacks that took place which is taken from the refernce of [“A Detailed Analysis of the KDD CUP 99 Data Set,”](https://ieeexplore.ieee.org/document/5356528)
-[Dataset](https://www.unb.ca/cic/datasets/nsl.html)
++ The dataset employes the information regarding the attacks that took place which is taken from the refernce of [“A Detailed Analysis of the KDD CUP 99 Data Set,”](https://ieeexplore.ieee.org/document/5356528)
++ [Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 
 
